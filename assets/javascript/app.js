@@ -65,8 +65,7 @@ $(document).ready(function () {
                
 
                 $(image).on("click", function(){
-                    imageStill === false;
-                    imageAnimated === true;
+                    
                     console.log("YOU CLICKED ME");
 
             })
