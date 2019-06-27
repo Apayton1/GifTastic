@@ -1,0 +1,33 @@
+body{
+    font-family: 'Pacifico', cursive;
+}
+.jumbotron{
+    text-align: center;
+    background-color:blue;
+
+}
+
+.title {
+	color:#fff;
+	text-align:center;
+	font-family: 'Pacifico', cursive;
+	padding-top:16px;
+}
+
+body{
+    background-color:greenyellow;
+}
+
+#movieDisplay{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    border:1px solid black;
+}
+
+#submitButton{
+    background-color: blue;
+	color:white;
+    border:1px solid black;
+}
+
